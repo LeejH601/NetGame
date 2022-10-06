@@ -1,0 +1,2 @@
+﻿  Net_assignment_Server.cpp
+C:\Users\Leejh\source\repos\NetGame\Net_Assignment_5_Server\Net_assignment_Server.cpp(1,10): fatal error C1083: 포함 파일을 열 수 없습니다. '..\Common.h': No such file or directory
